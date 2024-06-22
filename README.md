@@ -19,12 +19,6 @@
  <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/android-dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="icons/appStore-dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/Angular-Dark.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/JavaScript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/TypeScript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="icons/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- <img src="icons/Sass.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :trophy: My Github Stats:
