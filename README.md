@@ -3,9 +3,9 @@
 <!--
 **YuvalAnteby/YuvalAnteby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 👨‍💻 I'm a CS student at Bar Ilan university
+ - 👨‍💻 I'm a CS student @ Bar Ilan university
  - 💬 Ask me about anything  
- - ⚡ Fun fact: I love video games 🎮, and working out in the gym 🏋️‍♂️  
+ - ⚡ My hobbies: I love video games 🎮, and working out in the gym 🏋️‍♂️  
  - 📫 How to reach me: yuvala2001@gmail.com  
 
 ## :email: Find me on:  
