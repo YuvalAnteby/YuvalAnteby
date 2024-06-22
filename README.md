@@ -4,10 +4,8 @@
 **YuvalAnteby/YuvalAnteby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## 👨‍💻 I'm a CS student at Bar Ilan university
- - 🔭 I’m currently working on a quiz maker web app  
- - 🌱 I’m currently learning React  
  - 💬 Ask me about anything  
- - ⚡ Fun fact: I love video games 🏀, and working out in the gym 🎸  
+ - ⚡ Fun fact: I love video games 🎮, and working out in the gym 🏋️‍♂️  
  - 📫 How to reach me: yuvala2001@gmail.com  
 
 ## :email: Find me on:  
