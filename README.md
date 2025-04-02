@@ -5,7 +5,7 @@
 -->
  - 👨‍💻 I'm a CS student @ Bar Ilan university
  - 💻 Currently working on 'Can You Run It' full-stack web app
- -  - 💬 Ask me about anything  
+ - 💬 Ask me about anything  
  - ⚡ My hobbies: I love video games 🎮, and working out in the gym 🏋️‍♂️  
  - 📫 How to reach me: yuvala2001@gmail.com  
 
