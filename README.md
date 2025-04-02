@@ -16,6 +16,7 @@
 
 ## 🧰 My Tech Stack:
 <p align="center">
+ <img src="icons/Python-Dark.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="icons/android-dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="icons/appStore-dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
