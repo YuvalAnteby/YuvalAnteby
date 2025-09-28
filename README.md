@@ -11,12 +11,12 @@ I like building practical, scalable projects with clean architecture.
  - 🧪 I care about readable code, TDD when it helps, and solid PR hygiene.
  - 🤝 Open to collaborating on web backends, APIs, and performance-minded UIs.
  - ⚡ My hobbies: I love video games 🎮, and working out in the gym 🏋️‍♂️  
- - 📫 How to reach me: yuvala2001@gmail.com  
+ - 📫 How to reach me: yuvalanteby.dev@gmail.com  
 
 ## :email: Find me on:  
 <p align="center">
  <a href="https://www.linkedin.com/in/yuval-anteby/" target="_blank" rel="noopener noreferrer"> <img src="icons/LinkedIn.svg" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:yuvala2001@gmail.com"> <img src="icons/Gmail-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="mailto:yuvalanteby.dev@gmail.com"> <img src="icons/Gmail-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
 
 ---
