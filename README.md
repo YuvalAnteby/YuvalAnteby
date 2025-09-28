@@ -51,6 +51,7 @@ I like building practical, scalable projects with clean architecture.
  <p align="center">
    <img src="icons/docker.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   </p>
+  
 ---
 
 ## :trophy: My Github Stats:
